@@ -41,7 +41,7 @@ body {
   color: #fff;
   margin-bottom: 30px;
   border: none;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid rgb(255, 248, 248);
   outline: none;
   background: transparent;
 }
@@ -120,6 +120,8 @@ body {
   animation: btn-anim2 1s linear infinite;
   animation-delay: .25s
 }
+
+
 
 @keyframes btn-anim2 {
   0% {
