@@ -23,7 +23,7 @@ body {
   border-radius: 10px;
 }
 
-.login-box h2 {
+.login-box h2, h6{
   margin: 0 0 30px;
   padding: 0;
   color: #fff;
